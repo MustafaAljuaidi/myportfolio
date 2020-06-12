@@ -6096,7 +6096,7 @@ a.close.disabled {
 
 .bg-primary {
   background-color: #FF7C00 !important;
-  background: linear-gradient(to bottom, rgba(214, 196, 31, 0.8) 0%, rgba(255, 124, 0, 0.8) 100%), url("../assets/img/dubai\ copy.jpg");
+  background: linear-gradient(to bottom, rgba(214, 196, 31, 0.6) 0%, rgba(255, 124, 0, 0.6) 100%), url("../assets/img/dubai\ copy.jpg");
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9770,7 +9770,7 @@ button.bg-dark:focus {
 }
 
 .font-weight-light {
-  font-weight: 300 !important;
+  font-weight: 400 !important;
 }
 
 .font-weight-lighter {
@@ -9782,7 +9782,7 @@ button.bg-dark:focus {
 }
 
 .font-weight-bold {
-  font-weight: 500 !important;
+  font-weight: 550 !important;
 }
 
 .font-weight-bolder {
@@ -10061,17 +10061,17 @@ hr.light {
     background-color: transparent;
   }
   #mainNav .navbar-brand {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(255, 255, 255, 0.9);
   }
   #mainNav .navbar-brand:hover {
-    color: #fff;
+    color: rgba(255, 123, 0, 0.9);
   }
   #mainNav .navbar-nav .nav-item .nav-link {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(255, 255, 255, 0.9);
     padding: 0 1rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
-    color: #fff;
+    color: rgba(255, 123, 0, 0.9);
   }
   #mainNav .navbar-nav .nav-item:last-child .nav-link {
     padding-right: 0;
@@ -10097,7 +10097,7 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(102, 96, 45, 0.8) 0%, rgba(114, 108, 53, 0.8) 100%), url("../assets/img/Mustafa_1.jpg");
+  background: linear-gradient(to bottom, rgba(214, 196, 31, 0.6) 0%, rgba(255, 124, 0, 0.6) 100%), url("../assets/img/Mustafa_1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10122,7 +10122,7 @@ header.masthead h1 {
 }
 @media (min-width: 1200px) {
   header.masthead h1 {
-    font-size: 3.5rem;
+    font-size: 3rem;
   }
 }
 
@@ -10163,5 +10163,5 @@ header.masthead h1 {
 }
 
 .text-white-75 {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.9);
 }
